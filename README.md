@@ -53,10 +53,10 @@
 ## 👥 Contributors  
 Thanks to these amazing contributors:  
 
-- [@Shubham Kumar Singh](https://github.com/ShubhamK-S) 
-- [@Abhishek Soni](https://github.com/AbhishekSoni1764)
-- [@Manya Mehrotra](https://github.com/Manya0407)
-- [@Shreyansh Khandelwal](https://github.com/SHREYANSHSK) 
+- [Shubham Kumar Singh](https://github.com/ShubhamK-S) 
+- [Abhishek Soni](https://github.com/AbhishekSoni1764)
+- [Manya Mehrotra](https://github.com/Manya0407)
+- [Shreyansh Khandelwal](https://github.com/SHREYANSHSK) 
 
 We welcome contributions from the community! Feel free to submit pull requests or report issues.
 
