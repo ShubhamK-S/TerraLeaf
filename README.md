@@ -5,7 +5,7 @@
 **TerraLeaf** is an innovative e-commerce platform designed to revolutionize plant shopping for urban dwellers. By integrating cutting-edge technologies such as Augmented Reality (AR) and Artificial Intelligence (AI), we bridge the gap between plant lovers and expert gardening knowledge. 
 
 <p align="center">
-  <img src=r"src\assets\images\terraleaf.png" alt="TerraLeaf Preview" width="300">
+  <img src="src/assets/images/terraleaf.png" alt="TerraLeaf Preview" width="300">
 </p>
 
 
